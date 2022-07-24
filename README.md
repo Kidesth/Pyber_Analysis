@@ -26,6 +26,14 @@ The purpose of the new analysis using python skills and knowledge of pandas is t
  
  ![avarage fare per drivers](https://user-images.githubusercontent.com/107454933/180668172-ee18d2a1-db00-4848-bb2e-eb5ff9286132.png)
 
+Total summary of fare by cities group:
+
+![suumary of fare by vyties](https://user-images.githubusercontent.com/107454933/180668227-b792627b-c55a-46a6-8831-bab4fd50469a.png)
+
+Multiple line grapgh image discribes the data:
+
+![multiple line graph](https://user-images.githubusercontent.com/107454933/180668267-811a2ae6-5c5c-437f-bcec-7dfaae0162c6.png)
+
 
 
 
