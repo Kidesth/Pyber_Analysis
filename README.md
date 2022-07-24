@@ -5,8 +5,30 @@ The purpose of the new analysis using python skills and knowledge of pandas is t
 ## Results: 
  Using images from the summary Data Frame and multiple-line chart, describe the differences in ride-sharing data among the different city types. The summary demonstrates that group demand for Pyber among riders compared the three types of grouped cities between a limit date from January 1, 2019, to April 29, 2019. 
  the result looks like
- Total rides
+ 
+ Total rides:
+ 
  ![total ride share](https://user-images.githubusercontent.com/107454933/180668083-4456c9f4-fe8a-4957-9aab-2498bc1a8b76.png)
+ 
+ Total drivers:
+ 
+ ![Total drivers](https://user-images.githubusercontent.com/107454933/180668118-4a74fb22-482e-437d-b720-757b65961eb2.png)
+ 
+ Total Fares:
+ 
+ ![total fares](https://user-images.githubusercontent.com/107454933/180668132-42344278-1f3d-491e-96c2-088ae7de0e1a.png)
+ 
+ Total average fares per ride:
+ 
+ ![average fare per ride ](https://user-images.githubusercontent.com/107454933/180668153-e0fd7d04-aa98-4200-a717-9829c8018779.png)
+ 
+ Total Average fare per drivers:
+ 
+ ![avarage fare per drivers](https://user-images.githubusercontent.com/107454933/180668172-ee18d2a1-db00-4848-bb2e-eb5ff9286132.png)
+
+
+
+
  
 
  
